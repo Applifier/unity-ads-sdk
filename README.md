@@ -19,6 +19,8 @@ v1.3.0 June 10th, 2014
 Applifier Impact/Everyplay GameAds are now being fully transformed into Unity Ads SDK!
 Yes, this time SDK API internals and documentation will be around for long term usage.
 
+Migration notes: https://github.com/Applifier/unity-ads/wiki/Transition-from-Applifier-Impact-and-Everyplay-GameAds
+
 *iOS*
 
 - Compability layer with old ApplifierImpact interface
