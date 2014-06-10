@@ -17,15 +17,28 @@ v1.3.0 June 10th, 2014
 ----------------------
 
 Applifier Impact/Everyplay GameAds are now being fully transformed into Unity Ads SDK!
-Yes, starting from SDK API internals and documentation this time around for long term usage.
+Yes, this time SDK API internals and documentation will be around for long term usage.
 
 *iOS*
 
--
+- Compability layer with old ApplifierImpact interface
+- Several minor bug fixes
 
 *Android*
 
--
+- Always send Google Play advertising ID (mandatory from 1st August 2014)
+- Compability layer with old ApplifierImpact interface
+- SDK is now available as Android library project
+- Refactored SDK to use safer singleton pattern
+- Several minor bug fixes
+
+*Unity*
+
+- Many improvements to Unity plugin integration
+- Improved Android integration support
+- Added a legacy cleanup script against older Applifier Impact or Everyplay GameAds plugin releases, see migration notes
+- Separate game IDs for Android and iOS
+- Fix for delays after closing video ad
 
 v1.2.5 May 19th, 2014
 ---------------------
