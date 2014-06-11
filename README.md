@@ -13,7 +13,7 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
-v1.3.0 June 10th, 2014
+v1.3.0 June 11th, 2014
 ----------------------
 
 Applifier Impact/Everyplay GameAds are now being fully transformed into Unity Ads SDK!
