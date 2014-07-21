@@ -13,6 +13,13 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.2 July 21st, 2014
+---------------------
+
+*Android*
+
+- Move to using Android advertising identifier as a primary tracking identifier 
+
 v1.3.1 July 3rd, 2014
 ---------------------
 
