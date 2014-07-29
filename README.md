@@ -13,6 +13,17 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.3 July 29th, 2014
+---------------------
+
+*Android*
+
+- Fix incorrect initialization logic to a more robust version
+
+*iOS*
+
+- Fail gracefully on invalid server configuration in an edge case
+
 v1.3.2 July 21st, 2014
 ---------------------
 
