@@ -19,6 +19,8 @@
 #   public *;
 #}
 
+-keepattributes SourceFile,LineNumberTable
+
 -keep public class * extends android.app.Activity
 -keep public class * extends android.app.Application
 -keep public class * extends android.app.Service
@@ -31,28 +33,19 @@
 -keep public class **.R {
   public *;
 }
+
 -keep public class **.R$* {
   public *;
 }
 
--keep public class com.unity3d.ads.android.UnityAds
--keepclassmembers class com.unity3d.ads.android.UnityAds {
+-keep public class com.unity3d.ads.android.**
+-keepclassmembers class com.unity3d.ads.android.** {
    public *;
 }
 
--keep public interface com.unity3d.ads.android.IUnityAdsListener
--keepclassmembers interface com.unity3d.ads.android.IUnityAdsListener {
+-keep public class com.unity3d.ads.android.**$*
+-keepclassmembers class com.unity3d.ads.android.**$* {
    public *;
-}
-
--keep public class com.unity3d.ads.android.webapp.UnityAdsWebBridge
--keepclassmembers class com.unity3d.ads.android.webapp.UnityAdsWebBridge {
-    public boolean handleWebEvent (java.lang.String, java.lang.String); 
-}
-
--keep public class com.unity3d.ads.android.unity3d.UnityAdsUnityWrapper
--keepclassmembers class com.unity3d.ads.android.unity3d.UnityAdsUnityWrapper {
-    public *;
 }
 
 -keep public class com.applifier.impact.android.ApplifierImpact
@@ -67,21 +60,6 @@
 
 -keep public enum com.unity3d.ads.android.view.UnityAdsMainView$UnityAdsMainViewAction {
    **[] $VALUES;
-   public *;
-}
-
--keep public class com.unity3d.ads.android.campaign.UnityAdsCampaignHandler
--keepclassmembers class com.unity3d.ads.android.campaign.UnityAdsCampaignHandler {
-   public *;
-}
-
--keep public class com.unity3d.ads.android.campaign.UnityAdsCampaign
--keepclassmembers class com.unity3d.ads.android.campaign.UnityAdsCampaign {
-   public *;
-}
-
--keep public interface com.unity3d.ads.android.campaign.IUnityAdsCampaignHandlerListener
--keepclassmembers interface com.unity3d.ads.android.campaign.IUnityAdsCampaignHandlerListener {
    public *;
 }
 

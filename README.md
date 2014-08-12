@@ -13,6 +13,19 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.4 August 12th, 2014
+------------------------
+
+*Unity*
+
+- Fixes for Unity plugin
+
+*Android*
+
+- Fixes for several crashes and null pointers
+- Fix issues when destroyed activity gets recreated
+- Don't allow ads without if there is no network connectivity
+
 v1.3.3 July 29th, 2014
 ---------------------
 
