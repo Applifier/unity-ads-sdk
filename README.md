@@ -24,7 +24,7 @@ v1.3.4 August 12th, 2014
 
 - Fixes for several crashes and null pointers
 - Fix issues when destroyed activity gets recreated
-- Don't allow ads without if there is no network connectivity
+- Don't allow ads if there is no network connectivity
 
 v1.3.3 July 29th, 2014
 ---------------------
