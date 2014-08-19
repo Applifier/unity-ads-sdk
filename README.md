@@ -13,6 +13,13 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.6 August 19th, 2014
+------------------------
+
+*Android*
+
+- Fix timer crashes
+
 v1.3.5 August 12th, 2014
 ------------------------
 
