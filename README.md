@@ -13,6 +13,13 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.7 August 27th, 2014
+------------------------
+
+*Android*
+
+- Fix handling of backgrounding during video play for launch mode singleTask applications, like Unity
+
 v1.3.6 August 19th, 2014
 ------------------------
 
