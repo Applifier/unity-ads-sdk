@@ -13,6 +13,23 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.8 September 10th, 2014
+---------------------------
+
+*Android*
+
+- If game sets a zone that does not exist, then treat the zone as disabled instead of falling back to default zone
+- Minor bug fixes
+
+*iOS*
+
+- If game sets a zone that does not exist, then treat the zone as disabled instead of falling back to default zone
+- Minor bug fixes
+
+*Unity*
+
+- Remove deprecated Unity plugin. Please use Unity Ads package from Unity Asset Store instead.
+
 v1.3.7 August 27th, 2014
 ------------------------
 
