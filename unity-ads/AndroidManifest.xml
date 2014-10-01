@@ -4,8 +4,7 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <application
-        android:label="@string/lib_name">
+    <application>
         <activity
   		    android:name="com.unity3d.ads.android.view.UnityAdsFullscreenActivity" 
           	android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
