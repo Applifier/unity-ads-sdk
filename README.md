@@ -1,14 +1,13 @@
 Welcome to the release repository of Unity Ads SDK. To get started, make sure you have an account
-registered with Applifier. If you don't have one, you can create an account at https://my.applifier.com/
+registered with Applifier. If you don't have one, you can create an account at https://unityads.unity3d.com/admin/
 
-For integration and generic documentation, go to https://github.com/Applifier/unity-ads/wiki
+For integration and generic documentation, go to https://unityads.unity3d.com/help/
 
 For source code access or code review, check https://github.com/Applifier/unity-ads
 
 Unity Ads SDK is licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
 
-In any issues, please file in issue against https://github.com/Applifier/unity-ads/issues repository,
-or log a ticket with us by emailing support@applifier.zendesk.com
+In any issues, please file in issue against https://github.com/Applifier/unity-ads/issues repository.
 
 Unity Ads SDK Release Notes
 ===========================
