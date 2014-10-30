@@ -68,12 +68,6 @@
    public *;
 }
 
--assumenosideeffects class com.unity3d.ads.android.UnityAdsDeviceLog {
-  public static void entered();
-  public static void debug(java.lang.String, java.lang.Object[]);
-  public static void debug(java.lang.String);
-}
-
 -keepattributes JavascriptInterface
 
 -keepclasseswithmembernames class * {
