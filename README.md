@@ -13,6 +13,15 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.3.12 March 10th, 2015
+------------------------
+
+*Android*
+
+- Check for ad blockers on rooted devices
+- Prevent opening caching connections twice
+- Android-only release, no changes for iOS
+
 v1.3.10 November 12th, 2014
 ---------------------------
 
