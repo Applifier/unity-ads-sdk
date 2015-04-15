@@ -13,6 +13,21 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.4.2 April 15th, 2015
+-----------------------
+
+First public release of 1.4 SDK.
+
+*Android*
+
+- Lots of fixes and stability improvements
+- Improved video caching
+
+*iOS*
+
+- Lots of fixes and stability improvements
+- Improved video caching
+
 v1.3.12 March 10th, 2015
 ------------------------
 
