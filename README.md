@@ -1,7 +1,6 @@
-Welcome to the release repository of Unity Ads SDK. To get started, make sure you have an account
-registered with Applifier. If you don't have one, you can create an account at https://my.applifier.com/
+Welcome to Unity Ads. To get started, make sure you have an account registered with Unity Ads. If you don't have one, you can easily create one at http://UnityAds.Unity3d.com/
 
-For integration and generic documentation, go to https://github.com/Applifier/unity-ads/wiki
+For integration and generic documentation, visit http://unityads.unity3d.com/help
 
 For source code access or code review, check https://github.com/Applifier/unity-ads
 
