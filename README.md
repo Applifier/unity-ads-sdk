@@ -13,6 +13,21 @@ or log a ticket with us by emailing support@applifier.zendesk.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.4.4 June 18th, 2015
+----------------------
+
+*Android*
+
+- Remove need for external storage permission from Android 4.4 and later
+- Add getZone method for getting current zone
+- Bug fixes
+
+*iOS*
+
+- Improved app sheet handling on iOS 8
+- Add getZone method for getting current zone
+- Bug fixes
+
 v1.4.2 April 15th, 2015
 -----------------------
 
