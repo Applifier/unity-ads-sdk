@@ -13,5 +13,9 @@
     </application>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Note: If android:maxSdkVersion attribute leads to problems when merging manifests, you can
+         remove maxSdkVersion attribute. Unity Ads on Android 4.4 or later won't need this permission so
+         maxSdkVersion means it is only requested for older Androids. -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
 </manifest>

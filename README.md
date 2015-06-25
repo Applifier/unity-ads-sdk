@@ -13,6 +13,13 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.4.5 June 25th, 2015
+----------------------
+
+*iOS*
+
+- Fixes for upcoming iOS 9
+
 v1.4.4 June 18th, 2015
 ----------------------
 
