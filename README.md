@@ -13,6 +13,22 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.0 September 4th, 2015
+---------------------
+
+*Android*
+
+- Refactored activity and context handling
+- Images and resources are now in resource files
+- External storage permission is completely removed
+- Support for legacy Applifier Impact API has been removed
+
+*iOS*
+
+- Refresh ad inventory after all ads have been watched
+- Fixes for appsheet autorotation and mute button issues
+- Support for legacy Applifier Impact API has been removed
+
 v1.4.7 July 1st, 2015
 ---------------------
 

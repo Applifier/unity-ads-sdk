@@ -10,6 +10,8 @@
     -->
 
     <property file="local.properties" />
+    <property name="java.target" value="1.7" />
+    <property name="java.source" value="1.7" />
 
     <!--
          The ant.properties file can be created by you. It is only edited by the

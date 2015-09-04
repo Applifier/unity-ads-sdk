@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.unity3d.ads.android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.unity3d.ads.android"
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <application>
-        <activity
-  		    android:name="com.unity3d.ads.android.view.UnityAdsFullscreenActivity" 
-          	android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
-          	android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-          	android:hardwareAccelerated="true" />
-    </application>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <!-- Note: If android:maxSdkVersion attribute leads to problems when merging manifests, you can
-         remove maxSdkVersion attribute. Unity Ads on Android 4.4 or later won't need this permission so
-         maxSdkVersion means it is only requested for older Androids. -->
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
+    <application>
+        <activity
+            android:name="com.unity3d.ads.android.view.UnityAdsFullscreenActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:hardwareAccelerated="true"
+            tools:ignore="UnusedAttribute"/>
+    </application>
 </manifest>
