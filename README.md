@@ -13,8 +13,15 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.1 September 11th, 2015
+---------------------------
+
+*iOS*
+
+- Remove CFBundleExecutable from bundle .plist for compatibility with new App Store submission guidelines
+
 v1.5.0 September 4th, 2015
----------------------
+--------------------------
 
 *Android*
 
