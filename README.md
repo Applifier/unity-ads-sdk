@@ -13,6 +13,13 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.2 September 16th, 2015
+---------------------------
+
+*iOS*
+
+- Support for Bitcode in Xcode 7
+
 v1.5.1 September 11th, 2015
 ---------------------------
 
