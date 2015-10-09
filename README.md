@@ -13,6 +13,19 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.3 October 9th, 2015
+------------------------
+
+*Android*
+
+- Minor fixes
+- Add ProGuard configuration to AAR package
+
+*iOS*
+
+- Fix Bitcode support
+- Bug fixes for iOS 9
+
 v1.5.2 September 16th, 2015
 ---------------------------
 

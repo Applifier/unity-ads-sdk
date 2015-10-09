@@ -44,7 +44,7 @@
         <TextView android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:id="@+id/unityAdsVideoBufferingText"
-                  android:text="@string/buffering_text"
+                  android:text="@string/unityads_buffering_text"
                   android:textColor="@android:color/white"
                   android:padding="0dp"
                   android:layout_marginRight="3dp"
@@ -68,7 +68,7 @@
         <TextView android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:id="@+id/unityAdsVideoTimeLeftPrefix"
-                  android:text="@string/video_end_prefix"
+                  android:text="@string/unityads_video_end_prefix"
                   android:textColor="@android:color/white"
                   android:padding="0dp"/>
 
@@ -83,7 +83,7 @@
         <TextView android:layout_width="wrap_content"
                   android:layout_height="wrap_content"
                   android:id="@+id/unityAdsVideoTimeLeftSuffix"
-                  android:text="@string/video_end_suffix"
+                  android:text="@string/unityads_video_end_suffix"
                   android:textColor="@android:color/white"
                   android:padding="0dp"/>
 

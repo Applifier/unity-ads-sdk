@@ -21,6 +21,6 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="45dp"
         android:textColor="#FFFFFFFF"
-        android:text="@string/tap_to_continue"/>
+        android:text="@string/unityads_tap_to_continue"/>
 
 </RelativeLayout>
