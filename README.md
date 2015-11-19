@@ -13,6 +13,17 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.4 November 19th, 2015
+--------------------------
+
+*Android*
+
+- Add minimum SDK version to AAR package so Android Studio will not add unnecessary permissions
+
+*iOS*
+
+- Fix reachability check crash on iOS 9
+
 v1.5.3 October 9th, 2015
 ------------------------
 
