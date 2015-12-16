@@ -13,6 +13,14 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.5 December 16th, 2015
+--------------------------
+
+*Android*
+
+- Fix issues with Arabic locales
+- Clean ProGuard configuration
+
 v1.5.4 November 19th, 2015
 --------------------------
 
