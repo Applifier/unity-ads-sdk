@@ -13,6 +13,11 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v1.5.6 January 5th, 2016
+------------------------
+
+- Fix crash on Android 4.1 and older
+
 v1.5.5 December 16th, 2015
 --------------------------
 
